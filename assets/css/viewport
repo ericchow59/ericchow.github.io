@@ -71,7 +71,7 @@ input, select, textarea {
 /* Basic */
 
 	@-ms-viewport {
-		width: 100%;
+		width: device-width;
 	}
 
 	body {
